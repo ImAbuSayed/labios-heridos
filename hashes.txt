@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Labios heridos
+
+This log tracks the cryptographic history and versioning for the song **Labios heridos** (labios-heridos).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-20T03:06:24.060747 | `v1` | `5b7dd606cff3027d66c06ec1d7cde68d3bda6cc7db88b030417c3113766abf18` | `38196cdac2e4d1b2ea4db4937ea12ea5bc8ee575f6a908ed209661ad582549fd` | `2026-06-20_labios-heridos-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
