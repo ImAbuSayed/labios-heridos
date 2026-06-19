@@ -12,10 +12,10 @@
 |-------|---------|
 | **Title** | Labios heridos |
 | **Written By** | [Abu Sayed](https://abusayed.com.bd/) |
-| **Written On** | June 09, 2026 |
+| **Written On** | June 19, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/labios-heridos/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get a Licensing Quote for Labios heridos](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/labios-heridos/) |
+| **Get License** | [License this song: Labios heridos](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/labios-heridos/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,10 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> Tus labios heridos me piden que vuelva a morder,
-> esta noche en la disco hay reglas que vamos a romper.
-> Las luces de neón me guían directo a tu piel,
-> me miras de lejos sabiendo que sabes a miel.
+> Tus labios heridos me llaman otra vez
+> Bailando en la oscuridad como la última vez
+> El perfume en tu piel me tiene en la red
+> No puedo escapar, quiero volver a caer
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
