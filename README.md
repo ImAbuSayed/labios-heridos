@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Tus labios heridos me piden que vuelva a morder,
+> esta noche en la disco hay reglas que vamos a romper.
+> Las luces de neón me guían directo a tu piel,
+> me miras de lejos sabiendo que sabes a miel.
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
