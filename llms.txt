@@ -15,7 +15,7 @@
 | **Written On** | June 19, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/labios-heridos/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get License For Labios heridos](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/labios-heridos/) |
+| **Get License** | [Obtain a Music License for Labios heridos](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/labios-heridos/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -44,7 +44,7 @@
 
 ## 🔗 Song Links
 
-- [Telegram](https://t.me/AbuSayedMusic/3774)
+- [Telegram](https://t.me/AbuSayedMusic/3787)
 
 ---
 
