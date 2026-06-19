@@ -5,6 +5,7 @@ This log tracks the cryptographic history and versioning for the song **Labios h
 | Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
 |:----------|:--------|:-------------------|:-----------------|:------------|
 | 2026-06-20T03:06:24.060747 | `v1` | `5b7dd606cff3027d66c06ec1d7cde68d3bda6cc7db88b030417c3113766abf18` | `38196cdac2e4d1b2ea4db4937ea12ea5bc8ee575f6a908ed209661ad582549fd` | `2026-06-20_labios-heridos-v1.txt` |
+| 2026-06-20T03:42:12.097957 | `v2` | `5fac7c7fd824f0b61d2025d1d921e15c8f7ef4e5ede96bd0063766c7d08b8202` | `9008101041537eb33f3d9087c713b207fdfd5438bd3768b3147e4a8ad6f53fb3` | `2026-06-20_labios-heridos-v2.txt` |
 
 ---
 *Written and Curated by Abu Sayed*
